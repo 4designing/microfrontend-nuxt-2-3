@@ -1,0 +1,16 @@
+{
+  "name": "config-extends",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "nuxi preview"
+  },
+  "devDependencies": {
+    "@nuxt/examples-ui": "latest",
+    "nuxt": "^3.8.1"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.5.1"
+  }
+}
